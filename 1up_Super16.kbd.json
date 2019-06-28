@@ -1,0 +1,74 @@
+[
+  {
+    "name": "1up_Super16",
+    "background": {
+      "name": "ABS WA",
+      "style": "background-image: url('/bg/plastic/abs-wa.jpg');"
+    },
+    "radii": "10px /*all corners rounded equally*/",
+    "switchMount": "cherry",
+    "switchBrand": "kailh",
+    "switchType": "PG151101D49/D09",
+    "plate": true
+  },
+  [
+    "7\nHome",
+    {
+      "c": "#579bad"
+    },
+    "8\n↑",
+    {
+      "c": "#ee6d00"
+    },
+    "9\nPgUp",
+    {
+      "c": "#a698c5"
+    },
+    "Num Lock"
+  ],
+  [
+    {
+      "c": "#579bad"
+    },
+    "4\n←",
+    {
+      "c": "#ee6d00"
+    },
+    "5",
+    {
+      "c": "#a698c5"
+    },
+    "6\n→",
+    "/\n*"
+  ],
+  [
+    {
+      "c": "#ee6d00"
+    },
+    "1\nEnd",
+    {
+      "c": "#a698c5"
+    },
+    "2\n↓",
+    "3\nPgDn",
+    {
+      "c": "#cccccc"
+    },
+    "-\n+"
+  ],
+  [
+    {
+      "c": "#a698c5"
+    },
+    ".\nDel",
+    "\nUp Layer",
+    {
+      "c": "#cccccc"
+    },
+    "\nDown Layer",
+    {
+      "c": "#579bad"
+    },
+    "\nEnter"
+  ]
+]
